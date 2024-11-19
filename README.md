@@ -9,4 +9,6 @@ Customization: Adaptation to various tones, styles, and formats (e.g., formal, c
 Cultural Relevance: Incorporation of Arabic proverbs, idioms, and regional dialects to enhance authenticity and relatability.
 Visual Integration: AI-generated visuals or suggestions for accompanying media that align with the Arabic content.
 User Interactivity: A feature where users can input themes or keywords, and the AI generates tailored content ideas or drafts.
+
+
 presentation link: https://docs.google.com/presentation/d/1RIGb6ZBYUbm0ltFjboR3TxcdUqN9VP02QfIW2VYLUTc/edit?usp=sharing
